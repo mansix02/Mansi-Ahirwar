@@ -1,5 +1,4 @@
 //Header Scroll
-
 let nav = document.querySelector(".navbar");
 window.onscroll = function(){
     if(document.documentElement.scrollTop>20){
@@ -19,7 +18,7 @@ navBar.forEach(function (a){
 })
 
 
-
+// form
 document.addEventListener("DOMContentLoaded", function () {
     const form = document.querySelector("form");
     

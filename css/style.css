@@ -32,7 +32,6 @@ body{
     width: 100%;
     background-color: rgb(0, 0, 33);
     color: white;
-    /* background-image: url(../19_Portfolio_images/images/body-bg.png.webp); */
     background-image: linear-gradient(to left, rgb(27 20 41), rgb(20 15 35));
     background-repeat: no-repeat;
 }
@@ -302,10 +301,6 @@ p{
  .purpal{
    color: #dda0dd;
  }
-
-
-
-
 
  .image-container {
    width: 200px;
